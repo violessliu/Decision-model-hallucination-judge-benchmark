@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.bak
+*.tmp
+.env
+*.env
+secrets.env
+results/
+release/
+share/

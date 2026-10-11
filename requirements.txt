@@ -1,0 +1,5 @@
+httpx>=0.28.1
+joblib>=1.5.3
+openai>=3.9.0
+pydantic>=2.13.4
+scikit-learn>=1.8.0
